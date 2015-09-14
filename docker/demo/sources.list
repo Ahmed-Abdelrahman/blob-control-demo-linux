@@ -1,0 +1,2 @@
+deb http://mirrors.ocf.berkeley.edu/debian/ jessie main contrib non-free
+deb-src http://mirrors.ocf.berkeley.edu/debian jessie main contrib non-free
